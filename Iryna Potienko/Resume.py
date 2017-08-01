@@ -1,4 +1,5 @@
 from tkinter import *
+
 root=Tk()
 
 lab=Label(root,text='Резюме',font="Arial 18",fg='blue')
